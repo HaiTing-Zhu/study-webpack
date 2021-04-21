@@ -13,7 +13,7 @@ module.exports = {
         // 文件名称 
         filename: 'main.js'
     },
-    // 打包模式 默认生产模： production，开发模式：development
+    // 打包模式 默认生产模式： production，开发模式：development
     mode: 'development',
     module: {
         rules: [
